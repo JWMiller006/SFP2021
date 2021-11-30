@@ -1,0 +1,1 @@
+g++ -o "/home/code/projects/Linux Antivirus Software (Testing) (By James W Miller)/bin/x64/Debug/Linux Antivirus Software (Testing) (By James W Miller).out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/code/projects/Linux Antivirus Software (Testing) (By James W Miller)/obj/x64/Debug/main.o"

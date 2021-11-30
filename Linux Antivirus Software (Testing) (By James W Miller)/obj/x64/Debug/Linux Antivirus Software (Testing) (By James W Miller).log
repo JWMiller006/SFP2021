@@ -1,0 +1,12 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.56.101'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+D:\MS Visual Studio\Linux Antivirus Software (Testing) (By James W Miller)\main.cpp(7,1): warning : no return statement in function returning non-void [-Wreturn-type]
+D:\MS Visual Studio\Linux Antivirus Software (Testing) (By James W Miller)\main.cpp(7,1): warning :     7 | }
+D:\MS Visual Studio\Linux Antivirus Software (Testing) (By James W Miller)\main.cpp(7,1): warning :       | ^
+  Linking objects
+  Linux Antivirus Software (Testing) (By James W Miller).vcxproj -> D:\MS Visual Studio\Linux Antivirus Software (Testing) (By James W Miller)\bin\x64\Debug\Linux Antivirus Software (Testing) (By James W Miller).out

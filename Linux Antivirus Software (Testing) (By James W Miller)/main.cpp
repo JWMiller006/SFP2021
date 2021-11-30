@@ -9,6 +9,7 @@ int cfViruses()
 }
 int checkfiles()
 {
+    // This is borrowed code to be used for searching files 
     bool find_file(const path & dir_path,         // in this directory,
         const std::string & file_name, // search for this name,
         path & path_found)            // placing path here if found
